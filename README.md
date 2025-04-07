@@ -2,7 +2,7 @@
 
 Manage your personal projects or your small team easily.
 
-## Features
+## Planned Features
 
 ### Server base features
 
@@ -45,3 +45,9 @@ Manage your personal projects or your small team easily.
 - [ ] Calendar to-dos view
 
 - [ ] Sync all data with user private cloud/drive
+
+## Feature Ideas
+
+- WaveHub: devs can find cool public projects to collaborate, interact with owners by chat and joint the development team.
+
+- WaveIdeas: devs, designers and everyone can publish ideas or mockups that can be a new project.
